@@ -6,6 +6,6 @@ def my_find(collection)
     yield(collection[1])
     binding.pry
     i += 1 
-binding.pry 
+# binding.pry 
  end 
 end
